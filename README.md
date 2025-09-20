@@ -87,7 +87,7 @@ Cloudwingz/
 2. Upload all project files
 3. Go to repository **Settings > Pages**
 4. Select source branch (main/master)
-5. Your site will be available at `https://username.github.io/repository-name`
+5. Your site will be available at `https://github.com/Nattydread777/Cloudwingz-Website/tree/main`
 
 ### Option 2: Vercel
 1. Create an account at [vercel.com](https://vercel.com)
